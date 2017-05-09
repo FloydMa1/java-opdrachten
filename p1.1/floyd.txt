@@ -1,0 +1,3 @@
+name : floyd
+age : 16
+postcode : 17189
